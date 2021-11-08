@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mesa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AULA08/MESA/Mesa.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

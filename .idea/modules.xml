@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AULA11/AULA/AULA.iml" filepath="$PROJECT_DIR$/AULA11/AULA/AULA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA04/AULA04.iml" filepath="$PROJECT_DIR$/AULA04/AULA04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA07/AULA07.iml" filepath="$PROJECT_DIR$/AULA07/AULA07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA05/AULA/AULA1.iml" filepath="$PROJECT_DIR$/AULA05/AULA/AULA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA13/AULA13.iml" filepath="$PROJECT_DIR$/AULA13/AULA13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA15/AULA15.iml" filepath="$PROJECT_DIR$/AULA15/AULA15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA12/AULA/AULA2.iml" filepath="$PROJECT_DIR$/AULA12/AULA/AULA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA08/AULA/AULA3.iml" filepath="$PROJECT_DIR$/AULA08/AULA/AULA3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA03/Aula03/Aula03.iml" filepath="$PROJECT_DIR$/AULA03/Aula03/Aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA03/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/AULA03/Desafio/Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EXERCICIO.iml" filepath="$PROJECT_DIR$/.idea/EXERCICIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA11/MESA/MESA.iml" filepath="$PROJECT_DIR$/AULA11/MESA/MESA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA08/MESA/MESA1.iml" filepath="$PROJECT_DIR$/AULA08/MESA/MESA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA12/MESA/MESA2.iml" filepath="$PROJECT_DIR$/AULA12/MESA/MESA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA05/MESATRABALHO/MESATRABALHO.iml" filepath="$PROJECT_DIR$/AULA05/MESATRABALHO/MESATRABALHO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA09/Mesa/Mesa.iml" filepath="$PROJECT_DIR$/AULA09/Mesa/Mesa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA02/PagamentoSalario/PagamentoSalario.iml" filepath="$PROJECT_DIR$/AULA02/PagamentoSalario/PagamentoSalario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA06/Professor/Professor.iml" filepath="$PROJECT_DIR$/AULA06/Professor/Professor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA06/ProxyFilmesCTD/ProxyFilmesCTD.iml" filepath="$PROJECT_DIR$/AULA06/ProxyFilmesCTD/ProxyFilmesCTD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA01/Supermercado/Supermercado.iml" filepath="$PROJECT_DIR$/AULA01/Supermercado/Supermercado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA11/TESTE/TESTE.iml" filepath="$PROJECT_DIR$/AULA11/TESTE/TESTE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA10/aula/aula.iml" filepath="$PROJECT_DIR$/AULA10/aula/aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA02/aula02/aula02.iml" filepath="$PROJECT_DIR$/AULA02/aula02/aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA01/exercicio-compras/exercicio-compras.iml" filepath="$PROJECT_DIR$/AULA01/exercicio-compras/exercicio-compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA09/exercicio1_integradora/exercicio1_integradora.iml" filepath="$PROJECT_DIR$/AULA09/exercicio1_integradora/exercicio1_integradora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA10/mesa/mesa.iml" filepath="$PROJECT_DIR$/AULA10/mesa/mesa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA06/mesaTrabalho/mesaTrabalho.iml" filepath="$PROJECT_DIR$/AULA06/mesaTrabalho/mesaTrabalho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA02/mesaTrabalho/mesaTrabalho1.iml" filepath="$PROJECT_DIR$/AULA02/mesaTrabalho/mesaTrabalho1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA01/mesaTrabalho/mesaTrabalho2.iml" filepath="$PROJECT_DIR$/AULA01/mesaTrabalho/mesaTrabalho2.iml" />
+    </modules>
+  </component>
+</project>
